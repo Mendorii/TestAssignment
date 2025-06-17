@@ -1,2 +1,2 @@
 # TestAssignment
-Anshar Studios Test Assignment
+Test Assignment
